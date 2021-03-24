@@ -1,0 +1,1 @@
+{"id":"picture.hbs","dependencies":[],"generated":{"html":"<div class=\"photo-card\">\r\n  <img src=\"\" alt=\"picture\">\r\n\r\n</div>\r\n<div class=\"photo-card\">\r\n  <img src=\"\" alt=\"picture\">\r\n\r\n</div>\r\n"},"sourceMaps":null,"error":null,"hash":"eea2754a81b7593d903371830ab90b4b","cacheData":{}}
